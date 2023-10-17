@@ -1,5 +1,4 @@
 [![Autor](https://img.shields.io/badge/Autor-AlanBilly-blue.svg)](https://www.linkedin.com/in/alanbillyteixeirareis)
-[![CoAutor](https://img.shields.io/badge/CoAutor-SteelFerreira-blue.svg)](https://www.linkedin.com/in/steelferreira)
 [![Professor](https://img.shields.io/badge/Professor-AlexSouza-red.svg)](https://github.com/aasouzaconsult) 
 ![Assunto](https://img.shields.io/badge/Assunto-modelagem-yellow.svg)
 <!-- Imagem redimensionada -->
