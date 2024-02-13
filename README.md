@@ -2,7 +2,7 @@
 [![Professor](https://img.shields.io/badge/Professor-AlexSouza-red.svg)](https://github.com/aasouzaconsult) 
 ![Assunto](https://img.shields.io/badge/Assunto-modelagem-yellow.svg)
 <!-- Imagem redimensionada -->
-<img src="https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp" alt="texto alt" width="300">
+<img src="https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital-1536x578.png" alt="texto alt" width="100">
 
 <!-- Imagem redimensionada -->
 <img src="https://flowti.com.br/storage/blog/1318532023022463f8b93d47e36.png" alt="texto alt" width="600">
